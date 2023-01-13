@@ -6,8 +6,6 @@
 
 📱 +82 10 8430 7345
 
-📀 Github : [https://github.com/lifeissea](https://github.com/lifeissea)
-
 > 기획은 디테일이라는 사명감으로 기획자의 삶을 즐기고 있습니다.
 개발을 좀 더 깊게 이해하기 위해 `Python, Django, Javascript` 를 공부하고 있습니다.
 > 
@@ -71,33 +69,13 @@
 
 - **UI/UX**
     
-    XD
-    
-    Figma
-    
-    Oven
+    XD / Figma / Oven
     
 - **Develop**
     
-    Datagrip
-    
-    Aws(도메인 세팅, S3 업로드 등 쉬운 작업)
+    Datagrip / Aws(도메인 세팅, S3 업로드 등 쉬운 작업)
     
 - **Programming Language**
-    - Front-End
-        
-        Html
-        
-        CSS
-        
-        JS
-        
-    - Back-End
-
-
-
-
-
 <img src="https://img.shields.io/badge/Javascript-3178C6?style=flat&logo=Javascript&logoColor=white"/> <img src="https://img.shields.io/badge/Python-3178C6?style=flat&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/Django-3178C6?style=flat&logo=Django&logoColor=white"/>
 <!--
 **lifeissea/lifeissea** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
