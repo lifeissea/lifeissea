@@ -8,10 +8,9 @@ Readme
 
 
 
-
-<code><img height="20" alt="javascript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<img src="https://img.shields.io/badge/Javascripts-3178C6?style=flat&logo=TypeScript&logoColor=white"/>
 <img src="https://img.shields.io/badge/Python-3178C6?style=flat&logo=TypeScript&logoColor=white"/>
-<code><img height="20" alt="django" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png"></code>   
+<img src="https://img.shields.io/badge/Django-3178C6?style=flat&logo=TypeScript&logoColor=white"/>
 <!--
 **lifeissea/lifeissea** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
