@@ -1,3 +1,6 @@
+![](https://gh-hits.nomadcoders.workers.dev/view?username=lifeissea)
+
+
 # 김여명(Tomas)
 
 `블록체인` `NFT` `P2E` `리워드앱` `3D프린터` `4차산업` `신사업`
