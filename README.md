@@ -35,6 +35,8 @@
 - **[아르바이트]** (주)마이카페이지 **`NFT 사업 기획` `드론 진단`** 2022.12-2023.01        
     - NFT와 인증서와 결합한 새로운 블록체인 인증모델 기획
     - 드론과 Python 을 이용하여 궤적을 자동화 및 점검(진단) 사용안 제시
+
+
 - **[서비스 / 기획 총괄]** (주)스파이크그룹 **`블록체인` `NFT` `로또` `P2E` `리워드앱`** 2021-2022
     - 앱 서비스 기획(AOS:기본소득)
     - 개발자 채용
@@ -43,13 +45,19 @@
     - 개발 관리
     - 텔레그램, 카카오톡 SNS 관리
     - 500/DAU | 4000$/월 매출
+
+
 - **[취업]**(주)산들네트웍스 **`QA` `SKB 세톱박스`** 2019 ~ 2021
     - 세톱박스 QA **`PM`**
     - SKB동작센터 파견 근무
+
+
 - **[창업]**(주)인블록  **`블록체인` `4차산업`** 2018 - 2019
     - 서비스 기획
     - 개발 수주(중견기업)
     - 해외 거래소 리스팅 진행
+
+
 - **[창업][중국]**(주)몰던 **`3D프린터` `4차산업`** 2017 - 2018
     - 개발 기획
     - 과학상자를 이용한 3D프린터 제안
@@ -74,13 +82,18 @@
     
     XD / Figma / Oven
     
-- **Develop**
+- **Develop Tools**
     
     Datagrip / Aws(도메인 세팅, S3 업로드 등 쉬운 작업)
     
 - **Programming Language**
 
-<img src="https://img.shields.io/badge/Javascript-3178C6?style=flat&logo=Javascript&logoColor=white"/> <img src="https://img.shields.io/badge/Python-3178C6?style=flat&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/Django-3178C6?style=flat&logo=Django&logoColor=white"/>
+    Python / Dart / Javascript
+    
+- **Framework**
+
+    Django / DRF / Flutter
+    
 <!--
 **lifeissea/lifeissea** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
