@@ -24,13 +24,11 @@
 전공 : [기계공학] [창업융합]
 
 </aside>
-
-- **사이드 프로젝트** :
-    - The tea Labs. Ltd **`Project_manager` `Developer`**
-
         
 
 ### 💼  지난경력
+
+-  **사이드 프로젝트** The tea Labs. Ltd **`Project_manager` `Developer`** 2022.08-2023.03
 
 - **[아르바이트]** (주)마이카페이지 **`NFT 사업 기획` `드론 진단`** 2022.12-2023.01        
     - NFT와 인증서와 결합한 새로운 블록체인 인증모델 기획
