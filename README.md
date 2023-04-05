@@ -13,8 +13,8 @@
 개발을 좀 더 깊게 이해하기 위해 `Python, Django, Flutter` 를 공부하고 있습니다.
 > 
 
-⭐ **보유 특허** : **인센티브 및 블록체인 기반의 정보 전달 플랫폼**
-📱 **서비스 앱** : [StepUp(성장형 만보기)](https://apps.apple.com/us/app/stepup-%EA%B1%B7%EA%B3%A0-%EC%97%AD%EC%82%AC%EB%8F%84-%EB%B0%B0%EC%9A%B0%EB%8A%94-%EC%84%B1%EC%9E%A5%ED%98%95-%EB%A7%8C%EB%B3%B4%EA%B8%B0-%EC%8A%A4%ED%85%9D%EC%97%85/id6446372570)
+- ⭐ **보유 특허** : **인센티브 및 블록체인 기반의 정보 전달 플랫폼**
+- 📱 **서비스 앱** : [StepUp(성장형 만보기)](https://apps.apple.com/us/app/stepup-%EA%B1%B7%EA%B3%A0-%EC%97%AD%EC%82%AC%EB%8F%84-%EB%B0%B0%EC%9A%B0%EB%8A%94-%EC%84%B1%EC%9E%A5%ED%98%95-%EB%A7%8C%EB%B3%B4%EA%B8%B0-%EC%8A%A4%ED%85%9D%EC%97%85/id6446372570)
 
 ---
 
