@@ -94,7 +94,7 @@
     Django / DRF / Flutter
     
     
-  ![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=[ce9a1719-930d-4877-adec-dd309d02d95d])
+  ![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=lifeissea)
     
 <!--
 **lifeissea/lifeissea** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
