@@ -9,33 +9,42 @@
 
 📱 +82 10 8430 7345
 
+<aside>
+🏫 한양대학교
+전공 : `기계공학 창업융합`
+
+</aside>
+
+📀 Github : [https://github.com/lifeissea](https://github.com/lifeissea)
+
 > 기획은 디테일이라는 사명감으로 기획자의 삶을 즐기고 있습니다.
-개발을 좀 더 깊게 이해하기 위해 `Python, Django, Flutter` 를 공부하고 있습니다.
+개발을 좀 더 깊게 이해하기 위해 `Python, Django, Javascript` 를 공부하고 있습니다.
 > 
 
-- ⭐ **보유 특허** : **인센티브 및 블록체인 기반의 정보 전달 플랫폼**
-- 📱 **서비스 앱** : [StepUp(성장형 만보기)](https://apps.apple.com/us/app/stepup-%EA%B1%B7%EA%B3%A0-%EC%97%AD%EC%82%AC%EB%8F%84-%EB%B0%B0%EC%9A%B0%EB%8A%94-%EC%84%B1%EC%9E%A5%ED%98%95-%EB%A7%8C%EB%B3%B4%EA%B8%B0-%EC%8A%A4%ED%85%9D%EC%97%85/id6446372570)
+⭐ **보유 특허** : **인센티브 및 블록체인 기반의 정보 전달 플랫폼**
+
+📱 **서비스 앱** : [**StepUp(성장형 만보기)**](https://apps.apple.com/us/app/stepup-%EA%B1%B7%EA%B3%A0-%EC%97%AD%EC%82%AC%EB%8F%84-%EB%B0%B0%EC%9A%B0%EB%8A%94-%EC%84%B1%EC%9E%A5%ED%98%95-%EB%A7%8C%EB%B3%B4%EA%B8%B0-%EC%8A%A4%ED%85%9D%EC%97%85/id6446372570)
 
 ---
 
 ### 🤵🏻‍♂️ 현재 2023~
 
-<aside>
-🏫 한양대학교 재학중 (~ 2023년 8월 졸업 예정)  
-전공 : [기계공학] [창업융합]
-
-</aside>
-        
+- **[창업/개발&기획 총괄]**(주)포레거시  **`온라인 추모` `블록체인`** 2023.04~
+    - 서비스 기획
+    - 서비스 개발
+    - Photo to Video AI R&D
+- [사이드 프로젝트] Here **`메타버스` `Developer`** 2023.06 ~
+    - 서비스 앱 개발(Flutter & DRF)
+    - Google Map Grid
 
 ### 💼  지난경력
 
-- **[사이드 프로젝트]** The tea Labs. Ltd **`Project_manager` `Developer`** 2022.08-2023.03
-
-- **[아르바이트]** (주)마이카페이지 **`NFT 사업 기획` `드론 진단`** 2022.12-2023.01        
+- [사이드 프로젝트] The tea Labs. Ltd **`Project_manager` `Developer`** 2022.08-2023.03
+    - 텔레그램 텍스트 기반 NFT 게임 기획
+    - 텔레그램 Klaytn NFT 연동
+- [아르바이트] (주)마이카페이지 `**NFT 사업 기획` `드론 진단`** 2022.12-2023.01
     - NFT와 인증서와 결합한 새로운 블록체인 인증모델 기획
     - 드론과 Python 을 이용하여 궤적을 자동화 및 점검(진단) 사용안 제시
-
-
 - **[서비스 / 기획 총괄]** (주)스파이크그룹 **`블록체인` `NFT` `로또` `P2E` `리워드앱`** 2021-2022
     - 앱 서비스 기획(AOS:기본소득)
     - 개발자 채용
@@ -44,26 +53,18 @@
     - 개발 관리
     - 텔레그램, 카카오톡 SNS 관리
     - 500/DAU | 4000$/월 매출
-
-
-- **[취업]**(주)산들네트웍스 **`QA` `SKB 세톱박스`** 2019 ~ 2021
-    - 세톱박스 QA **`PM`**
+- [취업] (주)산들네트웍스 `QA` `SKB 세톱박스` 2019 ~ 2021
+    - 세톱박스 QA `PM`
     - SKB동작센터 파견 근무
-
-
 - **[창업]**(주)인블록  **`블록체인` `4차산업`** 2018 - 2019
     - 서비스 기획
     - 개발 수주(중견기업)
     - 해외 거래소 리스팅 진행
-
-
 - **[창업][중국]**(주)몰던 **`3D프린터` `4차산업`** 2017 - 2018
     - 개발 기획
     - 과학상자를 이용한 3D프린터 제안
     - 마케팅 기획 및 판로 확보
     - 교육, 제조, 판매 진행
-
-
 
 ### 💫 경험
 
@@ -79,19 +80,42 @@
 
 - **UI/UX**
     
-    XD / Figma / Oven
+    XD
+    
+    Figma
+    
+    Oven
     
 - **Develop Tools**
     
-    Datagrip / Aws(도메인 세팅, S3 업로드 등 쉬운 작업)
+    Datagrip
+    
+    Aws(도메인 세팅, S3 업로드 등 쉬운 작업)
     
 - **Programming Language**
-
-    Python / Dart / Javascript
+    - Front-End
+        
+        Html
+        
+        CSS
+        
+        JS
+        
+        Flutter
+        
+    - Back-End
+        
+        Django
+        
+- **3D Modeling**
     
-- **Framework**
-
-    Django / DRF / Flutter
+    Rhino
+    
+    CLO
+    
+    Marvelous Designer
+    
+    CAD
     
     
 <!--START_SECTION:waka-->
