@@ -30,6 +30,7 @@
 ### 🤵🏻‍♂️ 현재 2023~
 
 - **[창업/개발&기획 총괄]**(주)포레거시  **`온라인 추모` `블록체인`** 2023.04~
+    - [[https://for](https://forlegacy.notion.site/)]
     - 서비스 기획
     - 서비스 개발
     - Photo to Video AI R&D
