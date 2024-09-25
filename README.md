@@ -2,7 +2,7 @@
 
 **Blockchain | NFT | P2E | Reward Apps | 3D Printing | 4th Industrial Revolution**
 
-📧 moredawn723@gmail.com  
+📧 iam@dawn.kim  
 📞 +82 10 8430 7345
 
 ---
@@ -15,8 +15,8 @@
 
 ### Current Role (2023~)
 
-- **Founder & Chief Planner/Developer**  
-  forLegacy (April 2023~) - [forLegacy](https://forlegacy.life/)  
+- **Founder & CEO**  
+  여명거리 (Aug 2019~) - [여명거리](https://dawn.kim/)  
   Online Memorial Service, Blockchain Integration
 
 ---
@@ -28,7 +28,7 @@
   NFT Game Integration with Telegram
 
 - **Service Planner**  
-  Spike Group (2021-2022)  
+  Xpike Group (2021-2022)  
   Blockchain, NFT, Lotto, P2E
 
 - **QA**  
