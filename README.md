@@ -70,9 +70,9 @@ Currently pursuing a Master’s in Startup Business at **Korea's Graduate School
 
 ## 🧩 Fun Facts
 
-- 📍 INFP, deeply passionate about the intersection of tech and meaning  
-- 🧳 Recently inspired by fieldwork in Bali, historical restoration, and mobility ecosystems  
-- ✍️ Open to collaboration in AI + society-related domains  
+- 📍 ENTP – always searching for patterns, loopholes, and the occasional "life bug" to hack  
+- 🤯 Currently exploring how personal meaning and structural systems collide — and debugging both  
+- 🤖 Early adopter of GPT (since 3.0) — I’ve been coding with AI long before it was trendy  
 
 ---
 
