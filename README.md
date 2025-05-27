@@ -9,7 +9,7 @@
 
 ## 🧠 About Me
 
-I'm the founder & CEO of **Yeomyeong Street, Inc.**, building AI-powered platforms that automate, restore, and reward human action.  
+I'm the founder & CEO of **Yeomyeonggeori, Inc.**, building AI-powered platforms that automate, restore, and reward human action.  
 Currently pursuing a Master’s in Startup Business at **Korea's Graduate School of Entrepreneurship**.
 
 ---
@@ -25,11 +25,8 @@ Currently pursuing a Master’s in Startup Business at **Korea's Graduate School
 - 🔹 **NK-One Finder**  
   *AI/Geo-based restoration of lost historical and communal sites in North Korea*
 
-- 🔹 **Clean People**  
-  *Trash pickup reward platform (MVP with Next.js 15 + Supabase)*
-
-- 🔹 **Halal Seoulmate**  
-  *Custom travel assistant for Muslim visitors to Korea (survey + Qibla + AR map)*
+- 🔹 **K-POP Meme Coin Project**  
+  *Launched in Jan 2025, this meme-based token blends fandom culture and blockchain to create a playful digital currency. Now with over **10,000 users**, it’s a growing community experiment in fan-driven value.*
 
 ---
 
@@ -80,4 +77,3 @@ Currently pursuing a Master’s in Startup Business at **Korea's Graduate School
 ---
 
 > “Build things that restore memory, reward behavior, and automate potential.”
-
